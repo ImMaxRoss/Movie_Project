@@ -6,10 +6,13 @@
 
 
 ## Overview
-Using IMDB's vast database that profiles a large variety movie production 
+IMDb stands for Internet Movie Database and is a massive online website directory housing tons of information related to films, TV programs, video games, internet streams and more1. IMDb also contains data about the relevant cast, directors, producers, plot summaries, trivia, movie quotes, fan reviews and ratings1.
+
+Production companies can use IMDb’s Film and TV ratings prediction system which uses data mining and machine learning techniques to determine the ratings of a proposed future film or TV show before they green-light a proposed project23.
 
 
-# Introduction and Business Case:
+
+## Business Understanding:
 
 ![cool pic of studio](./images/epic_set.jpg)
 Microsoft’s is starting a new film studio and they need 3 actionable insights to ensure this new studio is a success. The stakeholders of this project include: Microsoft has a global customer base and the market competitors are US based studios. To increase the profitability of Microsoft Studio, we identified 3 key insights that can improve the odds of producing profitable movies. The analysis you will see below is based on various datasets where we define profitability of as having higher worldwide gross revenue. Our conclusions after the below analysis include identifying:
