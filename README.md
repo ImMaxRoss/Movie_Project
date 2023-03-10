@@ -6,13 +6,12 @@
 
 
 ## Overview
-
-This project analyzes data in the Movie Prodution industry provided by IMDB and TN respectively. .....etc.
+Using IMDB's vast database that profiles a large variety movie production 
 
 
 ## Business Problem
 ![cool pic of studio](./images/epic_set.jpg)
-Microsoft sees all the big companies creating original video content and they want to get in on the fun. They have decided to create a new movie studio, but they don’t know anything about creating movies. By exploring and analyzing the types of films currently doing the best at the box office Microsft's new head of their Movie studio can better decide on what type of films to focus their production on.
+This project analyzes the business venture of a new movie studio created by [Microsoft](https://www.microsoft.com/en-us/about), which with its vast resources and influence, is capable of funding movie studios of any size
 
 
 ## Data
@@ -25,19 +24,26 @@ Microsoft sees all the big companies creating original video content and they wa
 
 ##### 1. Month of year to release movie by most worldwide-gross
 
-##### 2. Optimal budget range by worldwide-gross
+##### 2. Most successful genre(s) by worldwide-gross
 
-##### 3. Most successful genre(s) by worldwide-gross
+##### 3. Optimal budget range by worldwide-gross
 
 ## Conclusions
-- Summary of reccomendations
+This analysis leads to three recommendations for considering the best movie production concepts that will lead to a higher rate of success for Microsoft's new movie studiol
+
+- Release movies during the months of May to July
+- Create movies that are of genre type 'Animated, Adventure, Comedy'
+- Set a budget for your movie of $65 million
 
 ## Next Steps
-- Showcase of niche findings that may lead to more accurate findings with more resources & time
+Further analyses could yield additional insights to further improve operations at Microsoft Studios
 
 ## For More Info
-- How to get access to our team in the future
+See the full analysis in the [Jupyter Notebook](./Max_Code.ipynb) or review this [presentation](./Anats_Code-Clean.ipynb).
 
+For additional info, contact Anat, Keanan, or Max at [max@maxross.com](mailto:max@maxross.com)
+
+![logo](./images/microsoft_plain.jpg)
 
 ## Repository Structure
 
