@@ -36,7 +36,8 @@ Microsoft’s is starting a new film studio and they need 3 actionable insights 
 - Presumably the reason for dip in August is due to most people going on vacation during the august month. Aditionally, in more western parts of the US school begins again as easy as august which would lead to a drop.
 - November sees a high gross as well since this is when Award show season begins to close and often the movies loking to receive awards try to be released at the end of the season so that they are at the top of peoples minds
     - This also correlates with why January is such a low Worldwide Gross because the great movies do not want to   be released in the beginning of the year and then be forgotten abouts 
-    
+![Month_Revenue](./images/avg_gross_month.jpg)
+
 ##### 2. Most successful genre(s) by worldwide-gross:
 - In order to get a better picture of how genre effects worldwide gross I needed to isolate individual genres so that I could apply a central tendancy to the 'worldwide_gross' of each genre and plot the results to show the average best performing genres.
 
@@ -66,7 +67,7 @@ Further analyses could yield additional insights to further improve operations a
 ## For More Information
 See the full analysis in the [Jupyter Notebook](./Microsoft_Studios_Analysis.ipynb) or review this [presentation](./Microsoft_Studios_Analysis.pdf).
 
-For additional info, contact Anat, Keanan, or Max at [max@maxross.com](mailto:max@maxross.com)
+For additional info, contact Anat Jacabson at [anat-jacobson](https://github.com/anat-jacobson), Keanan Ginell at [KeananG](https://github.com/KeananG), or Max Ross at [ImMaxRoss](https://github.com/ImMaxRoss)
 
 ![logo](./images/microsoft_plain.jpg)
 
