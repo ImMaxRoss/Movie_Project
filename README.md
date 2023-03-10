@@ -9,7 +9,7 @@
 Using IMDB's vast database that profiles a large variety movie production 
 
 
-# <font color='red'> Introduction and Business Case:
+# Introduction and Business Case:
 
 ![cool pic of studio](./images/epic_set.jpg)
 Microsoft’s is starting a new film studio and they need 3 actionable insights to ensure this new studio is a success. The stakeholders of this project include: Microsoft has a global customer base and the market competitors are US based studios. To increase the profitability of Microsoft Studio, we identified 3 key insights that can improve the odds of producing profitable movies. The analysis you will see below is based on various datasets where we define profitability of as having higher worldwide gross revenue. Our conclusions after the below analysis include identifying:
@@ -40,8 +40,11 @@ Microsoft’s is starting a new film studio and they need 3 actionable insights 
 - The plot shows that Animation, Adventure, and Sci-FI are, on average, the highest performing genres and will typically generate the highest revenue. This does not show the whole picture for genres. To understand the actual highest performing genres we have to look at the 'actual' genres of movies that are most often a mix of different genres
 
 - So the 'actual' top genres are or include a mix of Adventure, Animation, and Sci-Fi and basedd on the results of 'actual' genres you'll want to use a combination of atleast two of the top 3 genres.
+![top_genres](./images/top_genres.jpg)
 
 ##### 3. Optimal budget range by worldwide-gross:
+
+![Budget_Revenue](./images/Budget_revenue.png)
 - Profit and profit margin were both calculated in this however it is in accurate and misleading. Production Budget represents the budget allocated for filming. This can be exceed and while this is rare the greater issue is that production budget does not include additional expenses. These can be costs to show movie in theaters, marketing, promotion. The Numbers has estimated these expenses to be in the hundreds of millions for large budget films like Frozen. All charts and plots using profit and profit margin were removed if used in a misleading context.
 - Mean production budget increases at a relativly linear rate. While mean worldwide gross revenue increases at more of a exponential rate. The relatinoship of this means that highe rbudgets ismorelikley to yield higher worldwide gross revenues. Based on this Microsoft should aim for a production budget greater then 65 million.
 
@@ -58,17 +61,18 @@ Further analyses could yield additional insights to further improve operations a
 - **More insight into the effect of cast and crew on movie success**
 
 ## For More Information
-See the full analysis in the [Jupyter Notebook](./Max_Code.ipynb) or review this [presentation](./Anats_Code-Clean.ipynb).
+See the full analysis in the [Jupyter Notebook](./Movie_project.ipynb) or review this [presentation](./Movie_Project.pdf).
 
 For additional info, contact Anat, Keanan, or Max at [max@maxross.com](mailto:max@maxross.com)
 
 ![logo](./images/microsoft_plain.jpg)
 
 ## Repository Structure
-'''
-    data
-    images
-    README.md
-    Movie_Project.pdf
-    Movie_Project.ipynb
-'''
+
+```
+├── data
+├── images
+├── README.md
+├── Movie_Project.pdf
+└── Movie_Project.ipynb
+```
