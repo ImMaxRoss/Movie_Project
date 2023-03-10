@@ -64,7 +64,7 @@ Further analyses could yield additional insights to further improve operations a
 - **More insight into the effect of cast and crew on movie success**
 
 ## For More Information
-See the full analysis in the [Jupyter Notebook](./Movie_Project.ipynb) or review this [presentation](./Movie_Project.pdf).
+See the full analysis in the [Jupyter Notebook](./Microsoft_Studios_Analysis.ipynb) or review this [presentation](./Microsoft_Studios_Analysis.pdf).
 
 For additional info, contact Anat, Keanan, or Max at [max@maxross.com](mailto:max@maxross.com)
 
